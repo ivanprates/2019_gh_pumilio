@@ -1,14 +1,14 @@
-Decisions on ant and alkaloid data
+Supplementary Information 2
 ================
 Ivan Prates
 6/14/2019
 
-This file presents notes on decisions about ant and alkaloid data, as follows:
-------------------------------------------------------------------------------
+Notes on decisions on ant and alkaloid data:
+--------------------------------------------
 
 1.  We considered *Aphaenogaster* ants to have alkaloids because they have anabaseine, which is analogous to the frog alkaloid noranabasamine (Daly *et al*., 2005).
 
-2.  Alkaloids were detected in *Paratrechina steinheili* (Saporito *et al*., 2004) and *P. amblyops* (Clark *et al*., 2005). These two species are now allocated in the genus *Nylanderia* (La Polla *et al*., 2010). As a result, no *Paratrechina* (as currently recognized) is included in our study.
+2.  Alkaloids were detected in *Paratrechina steinheili* (Saporito *et al*., 2004) and *P. amblyops* (Clark *et al*., 2005). These two species are now allocated in the genus *Nylanderia* (La Polla *et al*., 2010). No *Paratrechina* (as currently recognized) is included in our study.
 
 3.  *Carebarella*, found to contain HTX (Jones *et al*., 2012), is now within *Solenopsis* (Pacheco and Mackay, 2013).
 
@@ -28,4 +28,4 @@ This file presents notes on decisions about ant and alkaloid data, as follows:
 
 11. Clark *et al*. (2005) found alkaloid 225C in an ambiguous mixture of *Camponotus* and *Pachycondyla* ants. Therefore, we conservatively do not consider them to be alkaloid-bearing ants.
 
-12. Tricyclics were not excluded from analyses restricted to ant alkaloids because this class was found in African *Myrmicaria* ants (Schroder *et al*., 1996).
+12. Tricyclics were not excluded from analyses restricted to ant alkaloids because this class was found in African Myrmicinae ants (Schroder *et al*., 1996).
