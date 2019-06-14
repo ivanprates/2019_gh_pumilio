@@ -1,9 +1,9 @@
 ############################################
 ## R script by Ivan Prates (ivanprates.org), Smithsonian National Museum of Natural History, Washington, DC, USA, June 2019.
 ## This script does the following:
-## Retrieve from the AntWeb database which ant genera occur sympatrically with Ooophaga pumilio.
-## Dowload records for each ant species in these target ant genera.
-## Used to obtain data from the AntWeb database in June 2017. Functionality not tested ever since.
+## Retrieves from the AntWeb database which ant genera occur sympatrically with Ooophaga pumilio.
+## Dowloads records for each ant species in these target ant genera.
+## This script was used to obtain data from the AntWeb database in June 2017. Functionality not tested ever since.
 
 ## Part 1: Getting ready:
 

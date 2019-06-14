@@ -1,7 +1,7 @@
 ############################################
 ## R script by Ivan Prates (ivanprates.org), Smithsonian National Museum of Natural History, Washington, DC, USA, June 2019.
 ## This script does the following:
-## Performs Multiple Matrix Regression with Randomization (MMRR) analyses based on ant, alkaloid, and geographic distance data.
+## Performs Multiple Matrix Regression with Randomization (MMRR) analyses based on ant, alkaloid, genetic, and geographic distance data.
 
 ## Part 1: Getting ready:
 
