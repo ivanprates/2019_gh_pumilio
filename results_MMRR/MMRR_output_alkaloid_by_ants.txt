@@ -1,0 +1,24 @@
+$r.squared
+r.squared 
+0.1278645 
+
+$coefficients
+   Intercept         ants 
+3.238459e-16 3.575814e-01 
+
+$tstatistic
+Intercept(t)      ants(t) 
+1.115081e-14 1.230646e+01 
+
+$tpvalue
+Intercept(p)      ants(p) 
+  0.91310869   0.00009999 
+
+$Fstatistic
+F-statistic 
+   151.4489 
+
+$Fpvalue
+F p-value 
+9.999e-05 
+

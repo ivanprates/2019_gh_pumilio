@@ -1,0 +1,24 @@
+$r.squared
+r.squared 
+0.1635245 
+
+$coefficients
+   Intercept          geo 
+3.699884e-16 4.043816e-01 
+
+$tstatistic
+Intercept(t)       geo(t) 
+1.300833e-14 1.421068e+01 
+
+$tpvalue
+Intercept(p)       geo(p) 
+  0.12938706   0.00009999 
+
+$Fstatistic
+F-statistic 
+   201.9435 
+
+$Fpvalue
+F p-value 
+9.999e-05 
+

@@ -1,0 +1,24 @@
+$r.squared
+r.squared 
+0.0922499 
+
+$coefficients
+   Intercept          gen 
+3.322611e-16 3.037267e-01 
+
+$tstatistic
+Intercept(t)       gen(t) 
+1.121389e-14 1.024590e+01 
+
+$tpvalue
+Intercept(p)       gen(p) 
+  0.89721028   0.00029997 
+
+$Fstatistic
+F-statistic 
+   104.9784 
+
+$Fpvalue
+ F p-value 
+0.00029997 
+
