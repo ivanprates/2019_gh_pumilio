@@ -2,7 +2,7 @@
 title: "Decisions on ant and alkaloid data"
 author: "Ivan Prates"
 date: "6/14/2019"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
