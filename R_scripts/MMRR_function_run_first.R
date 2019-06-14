@@ -1,6 +1,8 @@
-# MMRR performs Multiple Matrix Regression with Randomization analysis
-# Y is a dependent distance matrix
-# X is a list of independent distance matrices (with optional names)
+############################################
+## This R function was written by Ian Wang for the MMRR method (https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.12134)
+## MMRR performs Multiple Matrix Regression with Randomization analysis.
+## Y is a dependent distance matrix.
+## X is a list of independent distance matrices (with optional names).
 
 MMRR<-function(Y,X,nperm=999){
   #compute regression coefficients and test statistics
