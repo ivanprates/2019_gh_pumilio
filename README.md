@@ -1,4 +1,4 @@
-# 2019 Drivers of toxin turnover in the poison frog Oophaga pumilio
+# Prates _et al_., 2019, in preparation.
 
 This repository contains information associated with the manuscript entitled:
 
