@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 1. We considered _Aphaenogaster_ ants to have alkaloids because they have anabaseine, which is analogous to the frog alkaloid noranabasamine (Daly _et al_., 2005).
 
-2. Alkaloids were detected in _Paratrechina steinheili_ (Saporito _et al_., 2004) and _P. amblyops_ (Clark _et al_., 2005). These two species are now allocated in the genus _Nylanderia_ (La Polla _et al_., 2010). As a result, no _Paratrechina_ (as currently recognized) were included in our study.
+2. Alkaloids were detected in _Paratrechina steinheili_ (Saporito _et al_., 2004) and _P. amblyops_ (Clark _et al_., 2005). These two species are now allocated in the genus _Nylanderia_ (La Polla _et al_., 2010). As a result, no _Paratrechina_ (as currently recognized) is included in our study.
 
 3. _Carebarella_, found to contain HTX (Jones _et al_., 2012), is now within _Solenopsis_ (Pacheco and Mackay, 2013).
 
