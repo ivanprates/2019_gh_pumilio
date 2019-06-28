@@ -13,5 +13,6 @@ The following information is provided:
 - Matrices of alkaloid composition dissimilarity, estimated ant assemblage dissimilarity, genetic distances between _Oophaga pumilio_ populations, and geographic distances between sites.
 - Outputs from multiple matrix regression with randomization (MMRR) and linear regression analyses.
 - Supplementary Information 2: Decisions on alkaloid and ant data.
+- Supplementary Information 4: Optimized parameters used in individual species distribution models.
 
 Raw alkaloid (Supplementary Information 1) and ant locality data (Supplementary Information 3) to be included following article acceptance.
