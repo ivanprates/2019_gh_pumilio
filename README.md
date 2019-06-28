@@ -1,4 +1,4 @@
-# Prates _et al_. 2019, in preparation.
+# Prates et al. 2019, in preparation.
 
 This repository contains information associated with the manuscript entitled:
 
