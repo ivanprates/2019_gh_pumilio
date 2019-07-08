@@ -6,12 +6,12 @@ This repository contains information associated with the manuscript entitled:
 
 By Ivan Prates, Andrea Paz, Jason L. Brown, and Ana C. Carnaval.
 
-A version of this manuscript has been uploaded as a preprint to bioRxiv on 7 July 2019 and can be found at:
+A version of this manuscript has been uploaded as a preprint to _bioRxiv_ on 7 July 2019 and can be found at:
 
 https://www.biorxiv.org/content/10.1101/695171v1
 
 The following information is provided:
-- R scripts used to prepare and filter the data and perform all analyses.
+- R scripts used to prepare and filter the data and perform the analyses.
 - Matrices of alkaloid composition dissimilarity, estimated ant assemblage dissimilarity, genetic distances between _Oophaga pumilio_ populations, and geographic distances between sites.
 - Outputs from multiple matrix regression with randomization (MMRR) and linear regression analyses.
 - Supplementary Information 2: Decisions on alkaloid and ant data.
