@@ -2,13 +2,13 @@
 
 This repository contains information associated with the manuscript entitled:
 
-**Effects of arthropod prey turnover on the chemical traits of poison frogs: a landscape ecology approach to assess the phenotypic consequences of biotic interactions.**
+**Effects of prey turnover on poison frog toxins: using landscape ecology to assess how biotic interactions affect species phenotypes.**
 
 By Ivan Prates, Andrea Paz, Jason L. Brown, and Ana C. Carnaval.
 
 A version of this manuscript has been uploaded as a preprint to bioRxiv on 7 July 2019 and can be found at:
 
-https://www.biorxiv.org/content/10.1101/695171v1
+https://www.biorxiv.org/content/10.1101/695171v2
 
 The following information is provided:
 - R scripts used to prepare and filter the data and perform the analyses.
