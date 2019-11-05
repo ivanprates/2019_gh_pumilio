@@ -7,9 +7,13 @@ This repository contains information associated with the manuscript entitled:
 By Ivan Prates, Andrea Paz, Jason L. Brown, and Ana C. Carnaval.
 
 The following information is provided:
+
 1. R scripts used to prepare and filter the data and perform the analyses.
+
 2. Matrices of alkaloid composition dissimilarity, estimated ant assemblage dissimilarity, genetic distances between poison frog populations, and geographic distances between sites.
+
 3. Outputs from multiple matrix regression with randomization (MMRR) and linear regression analyses.
+
 4. Supplementary Information:
 - Text S1: Decisions on alkaloid and ant data.
 - Table S1. Alkaloid data.
