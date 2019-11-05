@@ -1,20 +1,21 @@
-# Prates et al. 2019, in preparation.
+# Prates et al. 2019, in press.
 
 This repository contains information associated with the manuscript entitled:
 
-**Effects of prey turnover on poison frog toxins: using landscape ecology to assess how biotic interactions affect species phenotypes.**
+**Links between prey assemblages and poison frog toxins: a landscape ecology approach to assess how biotic interactions affect species phenotypes.**
 
 By Ivan Prates, Andrea Paz, Jason L. Brown, and Ana C. Carnaval.
-
-A version of this manuscript has been uploaded as a preprint to bioRxiv on 7 July 2019 and can be found at:
-
-https://www.biorxiv.org/content/10.1101/695171v2
 
 The following information is provided:
 - R scripts used to prepare and filter the data and perform the analyses.
 - Matrices of alkaloid composition dissimilarity, estimated ant assemblage dissimilarity, genetic distances between poison frog populations, and geographic distances between sites.
 - Outputs from multiple matrix regression with randomization (MMRR) and linear regression analyses.
-- Supplementary Information 2: Decisions on alkaloid and ant data.
-- Supplementary Information 4: Optimized parameters used in individual species distribution models.
+- Supplementary Information:
+Text S1: Decisions on alkaloid and ant data.
+Table S1. Alkaloid data.
+Table S2. Ant locality data.
+Table S3. Optimized parameters used in individual species distribution models.
 
-Raw alkaloid (Supplementary Information 1) and ant locality data (Supplementary Information 3) to be included following article acceptance.
+A version of this manuscript was previously uploaded as a preprint to bioRxiv (7 July 2019) and can be found at:
+
+https://www.biorxiv.org/content/10.1101/695171v2
