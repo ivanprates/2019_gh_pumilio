@@ -1,4 +1,4 @@
-# Prates et al. 2019 Ecology and Evolution.
+# Prates et al. 2019 Ecology and Evolution
 
 This repository contains information associated with the manuscript entitled:
 
