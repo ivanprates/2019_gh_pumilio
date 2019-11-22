@@ -1,4 +1,4 @@
-# Prates et al. 2019 Ecology and Evolution (in press).
+# Prates et al. 2019 Ecology and Evolution.
 
 This repository contains information associated with the manuscript entitled:
 
@@ -20,6 +20,12 @@ The following information is provided:
 - Table S2. Ant locality data.
 - Table S3. Optimized parameters used in individual species distribution models.
 
-A version of this manuscript was previously uploaded as a preprint to bioRxiv (July 2019) and can be found at:
+The manuscript was published in November 2019 and can be found at:
+
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5867
+
+A version of this manuscript was previously uploaded as a preprint to bioRxiv and can be found at:
 
 https://www.biorxiv.org/content/10.1101/695171v3
+
+Thank you for your interest!
